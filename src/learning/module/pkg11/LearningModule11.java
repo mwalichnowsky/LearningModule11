@@ -28,6 +28,7 @@ public class LearningModule11 {
         
     } // End of Main Method}
     public static void sp(){
+        // Add line space function to shorten typing time.
         System.out.println("");
     }
         /**
